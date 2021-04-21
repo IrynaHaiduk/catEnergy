@@ -1,0 +1,10 @@
+.page-main {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: stretch;
+}
+
+.page-main__location {
+  background-color: $white;
+}
